@@ -23,7 +23,7 @@ body {
   background-image: url("https://www.bbva.com/es/wp-content/uploads/2017/03/blockchain-hyperledger-fintech-bbva-1920x0-c-f.jpg");
   background-position: center;
   background-size: cover;
-  height: 500px;
+  height: 420px;
   width: 100%;
 }
 
@@ -75,11 +75,19 @@ h4{
   letter-spacing: 0.02em;
   line-height: 24px;
   padding-bottom: 30px;
-  text-align: center;
+  text-align: left;
   text-transform:uppercase;
   width: 70%;
 }
-
+h5 {
+  color: rgba(86, 168, 37, 0.9);
+  font-family: Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 50;
+  line-height: 1.7em;
+  text-align: left;
+  width: 100%;
+}
 p {
   color: rgba(33, 73, 115, 0.9);
   font-family: Helvetica, sans-serif;
