@@ -13,7 +13,7 @@ body {
 /* Add the ID selector to this CSS rule */
 
 #header-text {
-  margin: 10px;
+  margin: 20px;
   position: left;
   text-align: left;
   top: 10%;
@@ -23,7 +23,7 @@ body {
   background-image: url("https://www.bbva.com/es/wp-content/uploads/2017/03/blockchain-hyperledger-fintech-bbva-1920x0-c-f.jpg");
   background-position: center;
   background-size: cover;
-  height: 400px;
+  height: 500px;
   width: 100%;
 }
 
@@ -34,7 +34,7 @@ h1 {
   padding-top: 100px;
   text-align: left;
   text-transform: uppercase;
-  margin: 10px;
+  margin: 20px;
   width: 75%;
 }
 
@@ -49,7 +49,7 @@ h2 {
   line-height: 26px;
   padding-bottom: 30px;
   text-align: left;
-  margin: 10px;
+  margin: 20px;
   width: 75%;
 }
 h3{
