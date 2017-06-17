@@ -84,7 +84,7 @@ h5 {
   font-family: Helvetica, sans-serif;
   font-size: 20px;
   font-weight: 50;
-  line-height: 1.7em;
+  line-height: 0.6em;
   text-align: left;
   width: 100%;
 }
@@ -98,7 +98,7 @@ p {
   width: 100%;
 }
 ul{
-  color: rgba(33, 73, 115, 0.9);
+  color: rgba(33, 73, 115, 0.7);
   font-family: Helvetica, sans-serif;
   font-size: 18px;
   font-weight: 50;
